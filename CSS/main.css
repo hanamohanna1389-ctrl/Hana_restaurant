@@ -30,7 +30,7 @@ body {
 }
 
 html {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   html {
@@ -96,7 +96,7 @@ html {
 }
 
 .main-name {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .main-name {
@@ -134,7 +134,7 @@ html {
 }
 
 .sub-name {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .sub-name {
@@ -172,7 +172,7 @@ html {
 }
 
 .main-heading {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .main-heading {
@@ -210,7 +210,7 @@ html {
 }
 
 .sub-heading {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .sub-heading {
@@ -288,7 +288,7 @@ html {
   transition: right 0.8s;
 }
 .card-overlay-heading {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .card-overlay-heading {
@@ -409,7 +409,7 @@ html {
   list-style: none;
 }
 .navbar-navigation-left .nav-list-link {
-  font-size: 12.5px;
+  font-size: 11px;
 }
 @media (min-width: 576px) {
   .navbar-navigation-left .nav-list-link {
